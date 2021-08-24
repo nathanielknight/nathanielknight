@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**nathanielknight/nathanielknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nathaniel Knight; call me Nat.
 
-Here are some ideas to get you started:
+My pronouns are he/him. ♂
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a website at [nathanielknight.ca](https://nathanielknight.ca). 🌐
+
+In addition to what you'll find here, I have a bunch of open source code over on [BitBucket](https://bitbucket.org/nathanielknight). 🪣
+
+I live on the West Coast of Canada 🇨🇦 on the territory of the Songhees, Esquimalt and W̱SÁNEĆ people. 🐢
+
+I currently work as a software developer for [Robots and Pencils](https://github.com/robotsandpencils). 🤖
+
+When I was a boy, I played the Violin and Viola. 🎻
+
+I'm always happy to talk about:
+
+- board games ♟
+- sailing ⛵️
+- [roguelike deck builders](https://en.wikipedia.org/wiki/Roguelike_deck-building_game) 🃏
